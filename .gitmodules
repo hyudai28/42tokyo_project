@@ -1,3 +1,27 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/hyudai28/libft_normV3.git
+[submodule "ft_printf_get_next_line"]
+	path = ft_printf_get_next_line
+	url = https://github.com/hyudai28/ft_printf-get_next_line.git
+[submodule "ft_server"]
+	path = ft_server
+	url = https://github.com/hyudai28/ft_server.git
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/hyudai28/cub3d.git
+[submodule "fract-ol"]
+	path = fract-ol
+	url = https://github.com/hyudai28/fract-ol.git
+[submodule "pipex"]
+	path = pipex
+	url = https://github.com/hyudai28/pipex.git
+[submodule "pusu_swap"]
+	path = pusu_swap
+	url = https://github.com/hyudai28/push_swap.git
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/hyudai28/philosopher_42.git
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/hyudai28/minishell_42.git
